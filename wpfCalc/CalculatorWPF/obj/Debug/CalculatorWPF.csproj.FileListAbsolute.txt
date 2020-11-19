@@ -1,0 +1,15 @@
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\CalculatorWPF.csprojAssemblyReference.cache
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\App.g.cs
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\MainWindow.baml
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+C:\Users\Anatoliy\Documents\wpfCalc\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
